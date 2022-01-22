@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com operações e infraestrutura.
 - 🌱 Estudando SQL, R, Java, Python e Azure.
-- 📫 Contate-me em: luanadasilvachaves7@gmail.com
 
 <div align="center">
   <a href="https://github.com/luawah">

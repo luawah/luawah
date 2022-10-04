@@ -1,7 +1,7 @@
 ### Hey! Eu sou a Lua 👋
 
-- 🔭 Hoje trabalho com operações e infraestrutura.
-- 🌱 Estudando SQL, R, Java, Python e Azure.
+- 🔭 Hoje trabalho com desenvolvimento de aplicações.
+- 🌱 Estudando Javascript, R, Java, Python.
 
 <div display="flex" align="center">
   <a href="https://github.com/luawah">
